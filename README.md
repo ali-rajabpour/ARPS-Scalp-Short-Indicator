@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ddc251aa-4089-4f42-a02d-fd11a49126e0" 
+       alt="FileFlow"
+       width="60%" />
+</p>
+
+
 # ARPS Scalp Short Indicator
 **Originally created: July 27, 2020**
 *(Note: This script was created in 2020 but is being shared on GitHub on 2025-04-25)*
